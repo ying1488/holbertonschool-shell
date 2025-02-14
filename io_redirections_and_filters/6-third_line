@@ -1,2 +1,2 @@
 #!/bin/bash
-pr -2 iacta
+head -3 iacta
